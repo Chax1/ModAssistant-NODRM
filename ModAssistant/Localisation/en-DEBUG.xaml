@@ -146,18 +146,6 @@
     <!-- Loading Page -->
     <sys:String x:Key="Loading:Loading">Loading:Loading</sys:String>
 
-    <!-- Invalid Page -->
-    <sys:String x:Key="Invalid:Title">Invalid:Title</sys:String>
-    <sys:String x:Key="Invalid:PageTitle">Invalid:PageTitle</sys:String>
-    <sys:String x:Key="Invalid:PageSubtitle">Invalid:PageSubtitle</sys:String>
-    <sys:String x:Key="Invalid:List:Header">Invalid:List:Header</sys:String>
-    <Span x:Key="Invalid:List:Line1">Invalid:List:Line1</Span>
-    <Span x:Key="Invalid:List:Line2">Invalid:List:Line2</Span>
-    <Span x:Key="Invalid:List:Line3">Invalid:List:Line3</Span>
-    <sys:String x:Key="Invalid:BoughtGame1">Invalid:BoughtGame1</sys:String>
-    <sys:String x:Key="Invalid:SelectFolderButton">Invalid:SelectFolderButton</sys:String>
-    <sys:String x:Key="Invalid:BoughtGame2">Invalid:BoughtGame2</sys:String>
-
     <!-- OneClick Class -->
     <sys:String x:Key="OneClick:MapDownloadFailed">OneClick:MapDownloadFailed</sys:String>
     <sys:String x:Key="OneClick:SongDownloadFailed">OneClick:SongDownloadFailed</sys:String>
